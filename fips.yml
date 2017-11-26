@@ -1,0 +1,9 @@
+#
+# fips-box2d
+#
+---
+exports:
+    header-dirs:
+        - Box2D/
+    modules:
+        Box2D: .
