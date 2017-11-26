@@ -4,6 +4,6 @@
 ---
 exports:
     header-dirs:
-        - Box2D/
+        - Box2D/Box2D/
     modules:
         Box2D: .
