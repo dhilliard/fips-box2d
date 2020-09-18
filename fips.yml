@@ -6,4 +6,4 @@ exports:
     header-dirs:
         - Box2D/include
     modules:
-        Box2D: .
+        box2d: .
